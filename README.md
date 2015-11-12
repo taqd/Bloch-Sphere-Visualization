@@ -6,7 +6,12 @@ This visualization includes an easy to use visual interface.
 
 Gates available are: Hadamard (H), Pauli X, Y, and Z, Phase Shift (S), Pi/8, and Square Root Not.
 
-Demo: [https://www.youtube.com/watch?v=qCtB8S7VG8U](https://www.youtube.com/watch?v=qCtB8S7VG8U)
+Demo: 
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=qCtB8S7VG8U
+" target="_blank"><img src="http://img.youtube.com/vi/qCtB8S7VG8U/0.jpg" 
+alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
+
+[https://www.youtube.com/watch?v=qCtB8S7VG8U](https://www.youtube.com/watch?v=qCtB8S7VG8U)
 
 Project Page: [here](https://tqdlab.wordpress.com/portfolio/phd-research-project-quantum-gate-and-qubit-visualization-using-a-bloch-sphere/) 
 
