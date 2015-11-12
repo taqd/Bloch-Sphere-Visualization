@@ -15,8 +15,12 @@ Demo:
 Project Page: [here](https://tqdlab.wordpress.com/portfolio/phd-research-project-quantum-gate-and-qubit-visualization-using-a-bloch-sphere/) 
 
 Created By: Tyler Dwyer
+
 Creation Date: February, 2014
+
 Contact: tdwyer@sfu.ca
+
+
 ### Usage instructions: ###
 
 1) Install Python as per the instructions on the VPython Site (installing the version he suggests) – ie. 2.7.6 from the Python site
