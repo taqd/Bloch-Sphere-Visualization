@@ -1,4 +1,4 @@
-# README #
+# Bloch Sphere Visualization #
 
 This is a visualization of a Quantum bit (Qubit) and several Quantum gates using a Bloch Sphere. Quantum gates are transformations to a qubit. These transformations are visualized through rotations of a globe. A globe is used for easy understanding of 'north' (0) and 'south' (1) pole of the sphere. 
 
